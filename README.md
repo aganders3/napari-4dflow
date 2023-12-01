@@ -1,25 +1,18 @@
 # napari-4dflow
 
 [![License MIT](https://img.shields.io/pypi/l/napari-4dflow.svg?color=green)](https://github.com/aganders3/napari-4dflow/raw/main/LICENSE)
+<!--
 [![PyPI](https://img.shields.io/pypi/v/napari-4dflow.svg?color=green)](https://pypi.org/project/napari-4dflow)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-4dflow.svg?color=green)](https://python.org)
 [![tests](https://github.com/aganders3/napari-4dflow/workflows/tests/badge.svg)](https://github.com/aganders3/napari-4dflow/actions)
-[![codecov](https://codecov.io/gh/aganders3/napari-4dflow/branch/main/graph/badge.svg)](https://codecov.io/gh/aganders3/napari-4dflow)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-4dflow)](https://napari-hub.org/plugins/napari-4dflow)
+-->
 
 4D flow MRI data processing
 
 ----------------------------------
 
 This [napari] plugin was generated with [Cookiecutter] using [@napari]'s [cookiecutter-napari-plugin] template.
-
-<!--
-Don't miss the full getting started guide to set up your new package:
-https://github.com/napari/cookiecutter-napari-plugin#getting-started
-
-and review the napari docs for plugin developers:
-https://napari.org/stable/plugins/index.html
--->
 
 ## Installation
 
@@ -36,13 +29,11 @@ To install latest development version :
 
 ## Contributing
 
-Contributions are very welcome. Tests can be run with [tox], please ensure
-the coverage at least stays the same before you submit a pull request.
+Contributions are very welcome. Tests can be run with [tox] or `pytest`.
 
 ## License
 
-Distributed under the terms of the [MIT] license,
-"napari-4dflow" is free and open source software
+Distributed under the terms of the [MIT] license, "napari-4dflow" is free and open source software.
 
 ## Issues
 
