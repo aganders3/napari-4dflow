@@ -57,7 +57,7 @@ _SUPPORTED_DATA_TYPES = {
 
 
 class UnwrapWidget(QWidget):
-    def __init__(self, viewer: "napari.Viewer"):
+    def __init__(self, viewer: "napari.viewer.Viewer"):
         super().__init__()
         self._viewer = viewer
         self._selection_widget = widgets.ComboBox(
